@@ -1,7 +1,8 @@
 {
   "contact":{
     "txnNum": "123456",
-    "txnGenType": "Y"
+    "txnGenType": "Y",
+    "gsmPersonal": "78978979"
   },
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
