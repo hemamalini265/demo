@@ -4,7 +4,7 @@
     "txnGenType": "Y",
     "gsmPersonal": "78978979"
   },
-  "marital_status":{
+  "marital_status": {
     "txnNum": "2",
     "txnGenType": "N",
     "maritalStatus": "single"
