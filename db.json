@@ -7,7 +7,7 @@
   "marital_status":{
     "txnNum": "2",
     "txnGenType": "N",
-    "marital_status": "single"
+    "maritalStatus": "single"
   },
   "profile": {
     "name": "typicode"
