@@ -1,13 +1,14 @@
 {
   "contact":{
-    "txnNum": "123456",
+    "txnNum": "1",
     "txnGenType": "Y",
     "gsmPersonal": "78978979"
   },
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
+  "marital_status":{
+    "txnNum": "2",
+    "txnGenType": "N",
+    "marital_status": "single"
+  },
   "profile": {
     "name": "typicode"
   }
