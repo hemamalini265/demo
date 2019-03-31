@@ -16,5 +16,23 @@
     "txnNum": "2",
     "txnGenType": "N",
     "nationality": "india"
+  },
+  "qualification": {
+    "txnNum": "2",
+    "txnGenType": "N",
+    "dataList": [
+      {
+					amend: false,
+				    id: 1,
+				    classification: 'TECHNICAL',
+				    qualification: 'BACHELORS DEGREE',
+				    year: '2004',
+				    specialization: 'ARTS',
+				    location: 'INDIA',
+				    institute: 'SYMBIOSIS',
+					  grade: '',
+				    gpa: '68'
+				  }
+      ]
   }
 }
