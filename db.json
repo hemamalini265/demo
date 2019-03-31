@@ -22,8 +22,8 @@
     "txnGenType": "N",
     "dataList": [
       {
-	"amend": false,
-	"id": 1,
+	"amend": "false",
+	"id": "1",
 	"classification": "TECHNICAL",
 	"qualification": "BACHELORS DEGREE",
 	"year": "2004",
