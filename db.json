@@ -11,5 +11,10 @@
   },
   "profile": {
     "name": "typicode"
+  },
+  "nationality": {
+    "txnNum": "2",
+    "txnGenType": "N",
+    "nationality": "india"
   }
 }
