@@ -34,8 +34,16 @@
 	}
       ]
   },
-  "balancingElement" : ["balancingElement1", "balancingElement2"],
-  "template": ["template1", "template2"],
-  "year": ["2017", "2018", "2019"],
-  "month": ["Jan", "Feb", "Mar", "Apr", "May"]
+  "balancingElement" : {
+	  "data": ["balancingElement1", "balancingElement2"]
+  },
+  "template": {
+	  "data": ["template1", "template2"]
+  },
+  "year": {
+	  "data": ["2017", "2018", "2019"]
+  },
+  "month": {
+	  "data": ["Jan", "Feb", "Mar", "Apr", "May"]
+  }
 }
