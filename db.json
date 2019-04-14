@@ -33,9 +33,5 @@
 	"gpa": "68"
 	}
       ]
-  },
-  "balancingElement" : ["balancingElement1", "balancingElement2"],
-  "template": ["template1", "template2"],
-  "year": ["2017", "2018", "2019"],
-  "month": ["Jan", "Feb", "Mar", "Apr", "May"]
+  }
 }
