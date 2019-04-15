@@ -1,8 +1,16 @@
 {
 	"balanceSheet": {
-		"balancingElement": [],
-		"template": [],
-		"year": [],
-		"month": []
+		"balancingElement": {
+			"data": []
+		},
+		"template":{
+			"data": []
+		},
+		"year": {
+			"data": []
+		},
+		"month": {
+			"data": []
+		}
 	}
 }
